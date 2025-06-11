@@ -53,8 +53,15 @@
       "name": "Bremsstrahlung",
       "score": 70,
       "pin": "111111"
+    },
+    {
+      "name": "Fellipe Carlos",
+      "score": 2,
+      "pin": "111111",
+      "createdAt": "2025-06-11T14:15:32.008Z",
+      "lastUpdate": "2025-06-11T14:15:32.008Z"
     }
   ],
   "createdAt": "2025-01-01T12:00:00.000Z",
-  "lastUpdate": "2025-06-10T21:35:00.115Z"
+  "lastUpdate": "2025-06-11T14:15:32.008Z"
 }
