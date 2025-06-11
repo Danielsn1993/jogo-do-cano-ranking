@@ -1,0 +1,60 @@
+{
+  "gameTitle": "Jogo do Cano",
+  "version": "2.0",
+  "players": [
+    {
+      "name": "Arkano",
+      "score": 110,
+      "pin": "000000",
+      "createdAt": "2025-06-10T20:56:57.137Z",
+      "lastUpdate": "2025-06-10T20:56:57.137Z"
+    },
+    {
+      "name": "¬¬",
+      "score": 161,
+      "pin": "123456",
+      "createdAt": "2025-06-10T21:06:55.617Z",
+      "lastUpdate": "2025-06-10T21:06:55.617Z"
+    },
+    {
+      "name": "Fazuele",
+      "score": 50,
+      "pin": "000000",
+      "createdAt": "2025-06-10T21:10:56.132Z",
+      "lastUpdate": "2025-06-10T21:10:56.132Z"
+    },
+    {
+      "name": "~1st! fenix",
+      "score": 220,
+      "pin": "000000",
+      "createdAt": "2025-06-10T21:10:56.132Z",
+      "lastUpdate": "2025-06-10T21:10:56.132Z"
+    },
+    {
+      "name": "~1st! nobru",
+      "score": 206,
+      "pin": "000000",
+      "createdAt": "2025-06-10T21:10:56.132Z",
+      "lastUpdate": "2025-06-10T21:10:56.132Z"
+    },
+    {
+      "name": "Zebedeu",
+      "score": 1,
+      "pin": "000000",
+      "createdAt": "2025-06-10T21:35:00.115Z",
+      "lastUpdate": "2025-06-10T21:35:00.115Z"
+    },
+    {
+      "name": "Newguy",
+      "score": 6,
+      "pin": "000000"
+    },
+    {
+      "name": "Bremsstrahlung",
+      "score": 61,
+      "pin": "111111"
+    }
+  ],
+  "createdAt": "2025-01-01T12:00:00.000Z",
+  "lastUpdate": "2025-06-10T21:35:00.115Z"
+}
